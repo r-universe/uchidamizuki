@@ -1,9 +1,5 @@
 [
   {
-    "package": "dibble",
-    "oncran": true
-  },
-  {
     "package": "jpgrid",
     "oncran": true
   },

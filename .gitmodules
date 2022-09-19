@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dibble"]
-	path = dibble
-	url = https://github.com/uchidamizuki/dibble
-	shallow = true
-	registered = true
 [submodule "jpgrid"]
 	path = jpgrid
 	url = https://github.com/uchidamizuki/jpgrid
