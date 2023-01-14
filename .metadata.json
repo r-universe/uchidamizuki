@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "stickyr",
+    "oncran": true
+  },
+  {
     "package": "timbr",
     "oncran": true
   }
