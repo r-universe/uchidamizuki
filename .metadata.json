@@ -1,14 +1,6 @@
 [
   {
-    "package": "dibble",
-    "oncran": true
-  },
-  {
-    "package": "jpgrid",
-    "oncran": true
-  },
-  {
-    "package": "jpstat",
+    "package": "partialised",
     "oncran": true
   },
   {
@@ -16,11 +8,19 @@
     "oncran": true
   },
   {
-    "package": "partialised",
+    "package": "jpgrid",
+    "oncran": true
+  },
+  {
+    "package": "dibble",
     "oncran": true
   },
   {
     "package": "stickyr",
+    "oncran": true
+  },
+  {
+    "package": "jpstat",
     "oncran": true
   },
   {
