@@ -1,10 +1,6 @@
 [
   {
-    "package": "partialised",
-    "oncran": true
-  },
-  {
-    "package": "navigatr",
+    "package": "dibble",
     "oncran": true
   },
   {
@@ -12,15 +8,19 @@
     "oncran": true
   },
   {
-    "package": "dibble",
+    "package": "jpstat",
+    "oncran": true
+  },
+  {
+    "package": "navigatr",
+    "oncran": true
+  },
+  {
+    "package": "partialised",
     "oncran": true
   },
   {
     "package": "stickyr",
-    "oncran": true
-  },
-  {
-    "package": "jpstat",
     "oncran": true
   },
   {
