@@ -18,6 +18,11 @@
 	url = https://github.com/cran/japanstat
 	shallow = true
 	registered = true
+[submodule "jpcity"]
+	path = jpcity
+	url = https://github.com/uchidamizuki/jpcity
+	shallow = true
+	registered = true
 [submodule "jpgrid"]
 	path = jpgrid
 	url = https://github.com/uchidamizuki/jpgrid
