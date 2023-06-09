@@ -8,11 +8,6 @@
 	url = https://github.com/uchidamizuki/dibble
 	shallow = true
 	registered = true
-[submodule "japanmesh"]
-	path = japanmesh
-	url = https://github.com/cran/japanmesh
-	shallow = true
-	registered = true
 [submodule "japanstat"]
 	path = japanstat
 	url = https://github.com/cran/japanstat
