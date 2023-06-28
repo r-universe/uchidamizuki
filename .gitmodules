@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dibble"]
 	path = dibble
 	url = https://github.com/uchidamizuki/dibble
-	shallow = true
-	registered = true
 [submodule "japanstat"]
 	path = japanstat
 	url = https://github.com/cran/japanstat
-	shallow = true
-	registered = true
 [submodule "jpcity"]
 	path = jpcity
 	url = https://github.com/uchidamizuki/jpcity
-	shallow = true
-	registered = true
 [submodule "jpgrid"]
 	path = jpgrid
 	url = https://github.com/uchidamizuki/jpgrid
-	shallow = true
-	registered = true
 [submodule "jpstat"]
 	path = jpstat
 	url = https://github.com/uchidamizuki/jpstat
-	shallow = true
-	registered = true
 [submodule "navigatr"]
 	path = navigatr
 	url = https://github.com/uchidamizuki/navigatr
-	shallow = true
-	registered = true
 [submodule "partialised"]
 	path = partialised
 	url = https://github.com/uchidamizuki/partialised
-	shallow = true
-	registered = true
 [submodule "stickyr"]
 	path = stickyr
 	url = https://github.com/uchidamizuki/stickyr
-	shallow = true
-	registered = true
 [submodule "timbr"]
 	path = timbr
 	url = https://github.com/uchidamizuki/timbr
-	shallow = true
-	registered = true
