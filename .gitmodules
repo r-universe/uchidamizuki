@@ -29,6 +29,9 @@
 [submodule "stickyr"]
 	path = stickyr
 	url = https://github.com/uchidamizuki/stickyr
+[submodule "tarchives"]
+	path = tarchives
+	url = https://github.com/uchidamizuki/tarchives
 [submodule "timbr"]
 	path = timbr
 	url = https://github.com/uchidamizuki/timbr
