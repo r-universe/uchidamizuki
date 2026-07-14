@@ -1,37 +1,61 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/uchidamizuki/uchidamizuki.r-universe.dev
 	branch = HEAD
 [submodule "adverbial"]
 	path = adverbial
-	url = https://github.com/uchidamizuki/adverbial
+	url = https://github.com/UchidaMizuki/adverbial
+[submodule "dagbuildr"]
+	path = dagbuildr
+	url = https://github.com/UchidaMizuki/dagbuildr
 [submodule "dibble"]
 	path = dibble
-	url = https://github.com/uchidamizuki/dibble
-[submodule "japanstat"]
-	path = japanstat
-	url = https://github.com/cran/japanstat
+	url = https://github.com/UchidaMizuki/dibble
+[submodule "econagent"]
+	path = econagent
+	url = https://github.com/UchidaMizuki/econagent
+[submodule "econio"]
+	path = econio
+	url = https://github.com/UchidaMizuki/econio
+[submodule "econiodatajp"]
+	path = econiodatajp
+	url = https://github.com/UchidaMizuki/econiodatajp
+[submodule "econioread"]
+	path = econioread
+	url = https://github.com/UchidaMizuki/econioread
 [submodule "jpcity"]
 	path = jpcity
-	url = https://github.com/uchidamizuki/jpcity
+	url = https://github.com/UchidaMizuki/jpcity
 [submodule "jpgrid"]
 	path = jpgrid
-	url = https://github.com/uchidamizuki/jpgrid
+	url = https://github.com/UchidaMizuki/jpgrid
+[submodule "jpmap"]
+	path = jpmap
+	url = https://github.com/UchidaMizuki/jpmap
 [submodule "jpstat"]
 	path = jpstat
-	url = https://github.com/uchidamizuki/jpstat
+	url = https://github.com/UchidaMizuki/jpstat
+[submodule "mlitdata"]
+	path = mlitdata
+	url = https://github.com/UchidaMizuki/mlitdata
+[submodule "mojxmlr"]
+	path = mojxmlr
+	url = https://github.com/UchidaMizuki/mojxmlr
 [submodule "navigatr"]
 	path = navigatr
-	url = https://github.com/uchidamizuki/navigatr
-[submodule "partialised"]
-	path = partialised
-	url = https://github.com/uchidamizuki/partialised
+	url = https://github.com/UchidaMizuki/navigatr
+[submodule "ndgras"]
+	path = ndgras
+	url = https://github.com/UchidaMizuki/ndgras
+[submodule "prorata"]
+	path = prorata
+	url = https://github.com/UchidaMizuki/prorata
 [submodule "stickyr"]
 	path = stickyr
-	url = https://github.com/uchidamizuki/stickyr
+	url = https://github.com/UchidaMizuki/stickyr
 [submodule "tarchives"]
 	path = tarchives
-	url = https://github.com/uchidamizuki/tarchives
+	url = https://github.com/UchidaMizuki/tarchives
 [submodule "timbr"]
 	path = timbr
-	url = https://github.com/uchidamizuki/timbr
+	url = https://github.com/UchidaMizuki/timbr
