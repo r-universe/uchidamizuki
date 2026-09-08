@@ -5,9 +5,6 @@
 [submodule "adverbial"]
 	path = adverbial
 	url = https://github.com/UchidaMizuki/adverbial
-[submodule "dagbuildr"]
-	path = dagbuildr
-	url = https://github.com/UchidaMizuki/dagbuildr
 [submodule "dibble"]
 	path = dibble
 	url = https://github.com/UchidaMizuki/dibble
@@ -35,21 +32,12 @@
 [submodule "jpstat"]
 	path = jpstat
 	url = https://github.com/UchidaMizuki/jpstat
-[submodule "mlitdata"]
-	path = mlitdata
-	url = https://github.com/UchidaMizuki/mlitdata
-[submodule "mojxmlr"]
-	path = mojxmlr
-	url = https://github.com/UchidaMizuki/mojxmlr
 [submodule "navigatr"]
 	path = navigatr
 	url = https://github.com/UchidaMizuki/navigatr
 [submodule "ndgras"]
 	path = ndgras
 	url = https://github.com/UchidaMizuki/ndgras
-[submodule "prorata"]
-	path = prorata
-	url = https://github.com/UchidaMizuki/prorata
 [submodule "stickyr"]
 	path = stickyr
 	url = https://github.com/UchidaMizuki/stickyr
