@@ -26,9 +26,6 @@
 [submodule "jpgrid"]
 	path = jpgrid
 	url = https://github.com/UchidaMizuki/jpgrid
-[submodule "jpmap"]
-	path = jpmap
-	url = https://github.com/UchidaMizuki/jpmap
 [submodule "jpstat"]
 	path = jpstat
 	url = https://github.com/UchidaMizuki/jpstat
